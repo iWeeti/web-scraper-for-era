@@ -7,7 +7,7 @@
 ### How to run:
 
 - Install [Node.JS](https://nodejs.org/en/) from the link above
-- Install the required dependencies with `npm install` in a terminal in the root directory of this project.
+- Install the required dependencies with `npm install` in a [terminal](#terminal) in the root directory of this project.
 - Run the code with `node index`
 - The program will the ask how many articles you would like to scrape.
 - When the program is done, it will generate a `sites.xlsx` file with all the posts
@@ -20,5 +20,5 @@
 #
 
 You can open a terminal to a directory like this:
-
+<a name="terminal"></a>
 ![image](how-to-open-a-terminal.png)
